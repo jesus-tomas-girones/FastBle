@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Oximetro</string>
+    <string name="app_name">FastBle_adaptado</string>
 
     <string name="notifyTitle">Prompt</string>
     <string name="gpsNotifyMsg">Current mobile phone scanning Bluetooth needs to open the positioning function</string>
